@@ -31,10 +31,10 @@
 ||earth-pa.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||mw1.gstatic.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||fonts.googleapis.com^
+||lh3.googleusercontent.com^
+||gstatic.com^
+||chromesyncentities-pa.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
