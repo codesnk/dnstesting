@@ -4,5 +4,5 @@
 ! Compiled by @codesnk
 !
 
-||google.com^
-||giki.edu.pk^
+||/.*/^
+
