@@ -41,9 +41,9 @@
 ||playatoms-pa.googleapis.com^
 ||www.googletagmanager.com^
 ||firebase.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||notifications-pa.googleapis.com^
+||geller-pa.googleapis.com^
+||proactivebackend-pa.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
