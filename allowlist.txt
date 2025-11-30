@@ -11,7 +11,7 @@
 ||blocket.se^
 ||android.googleapis.com^
 ||play.googleapis.com^
-||android.googleapis.com^
-||android.googleapis.com^
-||android.googleapis.com^
+||voilatile-pa.googleapis.com^
+||kidsmanagement-pa.googleapis.com^
+||connectivitycheck.gstatic.com^
 ||android.googleapis.com^
