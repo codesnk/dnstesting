@@ -47,7 +47,22 @@
 ||accountsettingsmobile-pa.googleapis.com^
 ||region1.app-measurement.com^
 ||clientservices.googleapis.com^
+||api-project-68524918734.firebaseio.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+
+
+
+
 
 
