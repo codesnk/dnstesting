@@ -11,6 +11,7 @@
 ||*.googleapis.com^
 ||*.ntp.org^
 ||blooket.com^
+||schoolsoft.se^
 ||android.googleapis.com^
 ||play.googleapis.com^
 ||voilatile-pa.googleapis.com^
