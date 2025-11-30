@@ -9,7 +9,6 @@
 ||google.com
 ||*.firebaseio.com^
 ||*.googleapis.com^
-
 ||blooket.com^
 ||android.googleapis.com^
 ||play.googleapis.com^
