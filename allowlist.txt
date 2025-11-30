@@ -61,8 +61,6 @@
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-
 
 
 
