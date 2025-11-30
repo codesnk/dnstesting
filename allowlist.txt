@@ -19,4 +19,14 @@
 ||play-lh.googleusercontent.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^
 ||alt3-mtalk.google.com^
-||playstoregatewayadapter-pa.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||deviceintegritytokens-pa.googleapis.com^
+||www.googleapis.com^
+||i.ytimg.com^
+||play-fe.googleapis.com^
+||appsgrowthpromo-pa.googleapis.com^
+||taskassist-pa.googleapis.com^
+||api.weather.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+
