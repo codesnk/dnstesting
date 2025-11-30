@@ -38,7 +38,16 @@
 ||maps.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||*.gvt1.com^
+||playatoms-pa.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
-
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
 
