@@ -35,9 +35,9 @@
 ||lh3.googleusercontent.com^
 ||gstatic.com^
 ||chromesyncentities-pa.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||maps.googleapis.com^
+||safebrowsing.googleapis.com^
+||*.gvt1.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 
