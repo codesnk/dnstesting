@@ -14,4 +14,9 @@
 ||voilatile-pa.googleapis.com^
 ||kidsmanagement-pa.googleapis.com^
 ||connectivitycheck.gstatic.com^
-||android.googleapis.com^
+||playstoregatewayadapter-pa.googleapis.com^
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^
+||play-lh.googleusercontent.com^
+||playstoregatewayadapter-pa.googleapis.com^
+||playstoregatewayadapter-pa.googleapis.com^
+||playstoregatewayadapter-pa.googleapis.com^
