@@ -10,7 +10,7 @@
 ||blooket.com^
 ||blocket.se^
 ||android.googleapis.com^
-||android.googleapis.com^
+||play.googleapis.com^
 ||android.googleapis.com^
 ||android.googleapis.com^
 ||android.googleapis.com^
