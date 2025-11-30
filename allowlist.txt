@@ -44,9 +44,9 @@
 ||notifications-pa.googleapis.com^
 ||geller-pa.googleapis.com^
 ||proactivebackend-pa.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||accountsettingsmobile-pa.googleapis.com^
+||region1.app-measurement.com^
+||clientservices.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
