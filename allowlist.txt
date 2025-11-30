@@ -9,3 +9,9 @@
 ||aiou.edu.pk^
 ||blooket.com^
 ||blocket.se^
+||android.googleapis.com^
+||android.googleapis.com^
+||android.googleapis.com^
+||android.googleapis.com^
+||android.googleapis.com^
+||android.googleapis.com^
