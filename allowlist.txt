@@ -27,6 +27,18 @@
 ||appsgrowthpromo-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 ||api.weather.com^
+||play-apps-features.googleusercontent.com^
+||earth-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||mw1.gstatic.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+
 
