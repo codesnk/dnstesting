@@ -52,7 +52,7 @@
 ||clientservices.googleapis.com^
 ||skolplus.se^
 ||multiplikationstabellen.se^
-||firebaseinstallations.googleapis.com^
+||*.gvt2.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
