@@ -39,8 +39,8 @@
 ||safebrowsing.googleapis.com^
 ||*.gvt1.com^
 ||playatoms-pa.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||www.googletagmanager.com^
+||firebase.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
