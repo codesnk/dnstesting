@@ -19,7 +19,6 @@
 ||connectivitycheck.gstatic.com^
 ||playstoregatewayadapter-pa.googleapis.com^
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^
-||play-lh.googleusercontent.com^
 ||google-ohttp-relay-safebrowsing.fastly-edge.com^
 ||alt3-mtalk.google.com^
 ||firebaseinstallations.googleapis.com^
@@ -30,12 +29,10 @@
 ||appsgrowthpromo-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 ||api.weather.com^
-||play-apps-features.googleusercontent.com^
 ||earth-pa.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||mw1.gstatic.com^
 ||fonts.googleapis.com^
-||lh3.googleusercontent.com^
 ||gstatic.com^
 ||chromesyncentities-pa.googleapis.com^
 ||maps.googleapis.com^
@@ -53,7 +50,7 @@
 ||skolplus.se^
 ||multiplikationstabellen.se^
 ||*.gvt2.com^
-||firebaseinstallations.googleapis.com^
+||*.googleusercontent.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
