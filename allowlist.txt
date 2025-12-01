@@ -10,7 +10,7 @@
 ||*.firebaseio.com^
 ||*.googleapis.com^
 ||*.ntp.org^
-||blooket.com^
+||*.blooket.com^
 ||schoolsoft.se^
 ||android.googleapis.com^
 ||play.googleapis.com^
