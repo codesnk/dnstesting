@@ -28,9 +28,14 @@
 ||*.expo.dev^
 ||*.isappcloud.com^
 ||*.startappservice.com^
+||*nokportalen.se^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+
 
 
 
