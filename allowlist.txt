@@ -25,9 +25,9 @@
 ||*.gvt2.com^
 ||*.googleusercontent.com^
 ||geoguessr.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||*.expo.dev^
+||*.isappcloud.com^
+||*.startappservice.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
