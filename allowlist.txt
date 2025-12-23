@@ -29,7 +29,9 @@
 ||*.isappcloud.com^
 ||*.startappservice.com^
 ||*.nokportalen.se^
-||*.nok.se^
+||*.appcenter.ms^
+||*.microsoftonline.com^
+||*.skype.com^
 
 ! EA FC Mobile
 !
