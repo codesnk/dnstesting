@@ -35,8 +35,8 @@
 ||*.amazonaws.com^
 ||*.unity3d.com^
 ||*.inner-active.mobi^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||*.googlevideo.com^
+||*.googlesyndication.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
