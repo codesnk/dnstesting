@@ -37,7 +37,7 @@
 ||*.inner-active.mobi^
 ||*.googlevideo.com^
 ||*.googlesyndication.com^
-||firebaseinstallations.googleapis.com^
+||*.googletagservices.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
