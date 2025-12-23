@@ -34,7 +34,8 @@
 ||*.skype.com^
 ||*.live.com^
 ||*.msauth.net^
-
+||*.microsoft.com^
+||*.msftauth.net^
 
 ! EA FC Mobile
 !
@@ -49,7 +50,6 @@
 ||*.glulive.com^
 ||*.akamaihd.net^
 ||*.mtgglobals.com^
-||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
