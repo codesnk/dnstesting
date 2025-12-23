@@ -33,8 +33,8 @@
 ||*.ea.com^
 ||*.sentry.io^
 ||*.amazonaws.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+||*.unity3d.com^
+||*.inner-active.mobi^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
