@@ -32,6 +32,9 @@
 ||*.appcenter.ms^
 ||*.microsoftonline.com^
 ||*.skype.com^
+||*.live.com^
+||*.msauth.net^
+
 
 ! EA FC Mobile
 !
