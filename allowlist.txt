@@ -30,12 +30,17 @@
 ||*.startappservice.com^
 ||*.nokportalen.se^
 ||*.nok.se^
+||*.ea.com^
+||*.sentry.io^
+||*.amazonaws.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
-
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
 
 
 
