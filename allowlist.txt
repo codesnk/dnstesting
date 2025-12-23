@@ -36,6 +36,16 @@
 ||*.msauth.net^
 ||*.microsoft.com^
 ||*.msftauth.net^
+||*.xboxlive.com^
+||*.azureedge.net^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
 
 ! EA FC Mobile
 !
@@ -50,15 +60,7 @@
 ||*.glulive.com^
 ||*.akamaihd.net^
 ||*.mtgglobals.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
-||firebaseinstallations.googleapis.com^
+
 
 
 
