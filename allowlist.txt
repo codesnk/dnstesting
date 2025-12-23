@@ -30,6 +30,9 @@
 ||*.startappservice.com^
 ||*.nokportalen.se^
 ||*.nok.se^
+
+! EA FC Mobile
+!
 ||*.ea.com^
 ||*.sentry.io^
 ||*.amazonaws.com^
@@ -38,9 +41,20 @@
 ||*.googlevideo.com^
 ||*.googlesyndication.com^
 ||*.googletagservices.com^
+||*.glulive.com^
+||*.akamaihd.net^
+||*.mtgglobals.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaseinstallations.googleapis.com^
+
 
 
 
